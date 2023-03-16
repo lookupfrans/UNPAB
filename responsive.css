@@ -3,4 +3,7 @@
         width: 100%;
         bgcolor: white;
     }
+    body {
+        width: 100%
+    }
 }
