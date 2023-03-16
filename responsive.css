@@ -1,5 +1,6 @@
 @media all and (max-width: 670px) {
     marquee {
         width: 100%;
+        bgcolor: white;
     }
 }
